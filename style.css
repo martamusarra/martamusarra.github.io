@@ -39,4 +39,13 @@
     background-color: #69BCE1 !important;
 }
 
-
+@media screen and (max-width: 600px){
+    .resizeimgresponsive {
+        width: 400px;
+    }
+}
+@media screen and (min-width: 620px){
+    .resizeimgresponsive {
+        width: 600px;
+    }
+}

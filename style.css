@@ -41,11 +41,11 @@
 
 @media screen and (max-width: 600px){
     .resizeimgresponsive {
-        width: 400px;
+        width: 250px;
     }
 }
 @media screen and (min-width: 620px){
     .resizeimgresponsive {
-        width: 600px;
+        width: 450px;
     }
 }
